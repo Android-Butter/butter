@@ -7,7 +7,7 @@
   <remote  name="github"
            fetch="git://github.com/Android-Butter/"
            review=""/>
-    <default revision="refs/tags/android-4.2.2_r1.1"
+    <default revision="refs/tags/android-4.2.2_r1.2"
            remote="aosp"
            sync-j="4" />
 
@@ -94,6 +94,7 @@
   <project path="hardware/qcom/display-legacy" name="butter_hardware_qcom_display-legacy" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/gps-legacy" name="butter_hardware_qcom_gps-legacy" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/media" name="butter_hardware_qcom_media" remote="github" revision="jellybean"/>
+  <project path="hardware/qcom/media-caf" name="butter_hardware_qcom_media-caf" remote="github" revision="master"/>
   <project path="hardware/qcom/media-legacy" name="butter_hardware_qcom_media-legacy" remote="github" revision="jellybean"/>
   <project path="system/wlan/ti" name="butter_system_wlan_ti" remote="github" revision="jellybean"/>
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" name="butter_prebuilts_gcc_linux-x86_arm_arm-eabi-4.4.3" remote="github" revision="jellybean"/>
