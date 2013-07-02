@@ -90,6 +90,7 @@
   <project path="external/wpa_supplicant" name="butter_external_wpa_supplicant" remote="github" revision="jellybean"/>
   <project path="hardware/atheros" name="butter_hardware_atheros" remote="github" revision="jellybean" />
   <project path="hardware/gpsshim" name="butter_hardware_gpsshim" remote="github" revision="jellybean" />
+  <project path="hardware/qcom/audio-caf" name="butter_hardware_qcom_audio-caf" remote="github" revision="master"/>
   <project path="hardware/qcom/audio-legacy" name="butter_hardware_qcom_audio-legacy" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/display-caf" name="butter_hardware_qcom_display-caf" remote="github" revision="master"/>
   <project path="hardware/qcom/display-legacy" name="butter_hardware_qcom_display-legacy" remote="github" revision="jellybean"/>
