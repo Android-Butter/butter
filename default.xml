@@ -96,6 +96,7 @@
   <project path="hardware/qcom/display-legacy" name="butter_hardware_qcom_display-legacy" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/gps-legacy" name="butter_hardware_qcom_gps-legacy" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/media" name="butter_hardware_qcom_media" remote="github" revision="jellybean"/>
+  <project path="hardware/qcom/msm7k" name="butter_hardware_qcom_msm7k" remote="github" revision="master"/>
   <project path="hardware/qcom/media-caf" name="butter_hardware_qcom_media-caf" remote="github" revision="master"/>
   <project path="hardware/qcom/media-legacy" name="butter_hardware_qcom_media-legacy" remote="github" revision="jellybean"/>
   <project path="system/wlan/ti" name="butter_system_wlan_ti" remote="github" revision="jellybean"/>
