@@ -333,6 +333,7 @@
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
+   <project path="prebuilt/linux-x86/toolchain/linaro-arm-cortex-a8" name="butter_prebuilt_linux-x86_toolchain_linaro-arm-cortex-a8" remote="github" revision="master" />
   <project path="pdk" name="platform/pdk" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
