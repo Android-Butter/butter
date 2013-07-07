@@ -103,6 +103,7 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" name="butter_prebuilts_gcc_linux-x86_arm_arm-eabi-4.4.3" remote="github" revision="jellybean"/>
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-linaro-4.7" name="butter_prebuilts_gcc_linux-x86_arm_arm-linux-linaro-4.7" remote="github" revision="jellybean"/>
   <project path="vendor/butter" name="butter_vendor_butter" remote="github" revision="jellybean" />
+  <project path="kernel/htc/msm8660" name="butter_kernel_htc_msm8660" remote="github" revision="cm-10.1" />
   <project path="vendor/htc" name="butter_vendor_htc" remote="github" revision="jellybean" />
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
